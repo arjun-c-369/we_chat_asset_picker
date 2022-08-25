@@ -15,7 +15,7 @@ dependencies:
   extended_image:
     git:
       url: https://github.com/arjun-c-369/extended_image.git
-      ref: eeb98a6b75f049198ea92af0166965993f28ac42
+      ref: 1d1cb8d3e6f2f469dbe009962f78e6b7f955d7f6
   photo_manager: ^1.2.3
   #provider: ^5.0.0
   provider:
