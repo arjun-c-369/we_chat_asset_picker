@@ -11,7 +11,15 @@ dependencies:
   flutter:
     sdk: flutter
 
-  extended_image: ^4.1.0
+  #extended_image: ^4.1.0
+  extended_image:
+    git:
+      url: https://github.com/arjun-c-369/extended_image.git
+      ref: eeb98a6b75f049198ea92af0166965993f28ac42
   photo_manager: ^1.2.3
-  provider: ^5.0.0
+  #provider: ^5.0.0
+  provider:
+    git:
+      url: https://github.com/arjun-c-369/provider.git
+      ref: 9a947855d80263c1edbb62047dfad6e1e9a467d6
   video_player: ^2.1.6
